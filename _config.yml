@@ -17,6 +17,6 @@ title: npl-gala
 markdown: GFM
 show_downloads: false
 google_analytics: G-966JZZV0M0
-theme:  pages-themes/dinky
-# jekyll-theme-cayman
+theme:  jekyll-theme-cayman
+# 
 # jekyll-theme-merlot

@@ -21,6 +21,8 @@
 <details>
 
 <summary>More description</summary>
+
+
 `news released by the authorities. To ensure the dataset’s scalability
 to disease classification tasks, we collected real news containing
 only one disease label out of a disease list. We specifically extracted

@@ -12,6 +12,16 @@
 - Contributors: Zahra Nia, Nicola Bragazzi, Jude Kong, Jianhong Wu
 - https://data.mendeley.com/datasets/242whtdt3m/1
 
+## Anoop 2023
+- https://www.sciencedirect.com/science/article/pii/S0033350623000781
+
+## Morgan 2025
+
+
+## Boatman 2022
+
+-
+
 ## Med-MMHL
 
 - multi-modal misinformation detection data

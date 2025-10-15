@@ -8,11 +8,16 @@
 
 
 <details>
-  <summary># Q/A</summary>
+  <summary>Q/A</summary>
 
 <details>
 
 <summary>Q: How to determine `max_ctx`?</summary>
+
+Option 1: https://platform.openai.com/tokenizer
+
+Option 2: Code:
+
 `import tiktoken
 
 # Use a tokenizer compatible with LLaMA/Gemma models, such as llama2 tokenizer

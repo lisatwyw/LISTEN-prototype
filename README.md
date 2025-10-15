@@ -1,9 +1,14 @@
 # LISTEN-prototype
 
+## Links to demo:
 - [mpox](https://mpox.streamlit.app)
   - [Figure 1](figs/user_location_gt5_vert.html)
 - [HPV](https://hpv.streamlit.app/)
 - [Measles](https://measles.streamlit.app/)
+
+## Evaluation
+
+- [Datasets](data) that can be used for model evaluation
 
 <details>
 

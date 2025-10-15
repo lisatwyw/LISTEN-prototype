@@ -16,15 +16,14 @@
 - https://www.sciencedirect.com/science/article/pii/S0033350623000781
 
 ## Stephen Crone 2022
-- Source: 
+- Source: https://www.kaggle.com/datasets/stephencrone/monkeypox
 
 ## Boatman 2022
 - Source: https://doi.org/10.1016/j.pecinn.2024.100329
 
-
 ## Morgan 2025
 
-
+- Source: coming soon
 
 ## Med-MMHL
 

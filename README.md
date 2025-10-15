@@ -1,14 +1,23 @@
 # LISTEN-prototype
 
-
+- [mpox](https://mpox.streamlit.app)
+  - [Figure 1](figs/user_location_gt5_vert.html)
 - [HPV](https://hpv.streamlit.app/)
 - [Measles](https://measles.streamlit.app/)
 
-[Figure 1](figs/user_location_gt5_vert.html)
+<details>
 
+<summary>Q/A</summary>
 
 <details>
-  <summary>Q/A</summary>
+
+  <summary>Future work?</summary>
+
+  Evaluate on large datasets, e.g.: 
+  - https://huggingface.co/datasets/allenai/c4
+
+</details>
+
 
 <details>
 
@@ -16,7 +25,7 @@
 
 Option 1: https://platform.openai.com/tokenizer
 
-Option 2: Code:
+Option 2: Callculate with Python `tiktoken` package:
 
 ```
 import tiktoken

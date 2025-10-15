@@ -12,7 +12,7 @@
 
 <details>
 
-<summary>Q: How to determine ```max_ctx```?</summary>
+<summary>Q: How to determine context length? (aka how to calculate token size of your prompt?)</summary>
 
 Option 1: https://platform.openai.com/tokenizer
 

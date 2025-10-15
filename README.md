@@ -12,13 +12,14 @@
 
 <details>
 
-<summary>Q: How to determine `max_ctx`?</summary>
+<summary>Q: How to determine ```max_ctx```?</summary>
 
 Option 1: https://platform.openai.com/tokenizer
 
 Option 2: Code:
 
-`import tiktoken
+```
+import tiktoken
 
 # Use a tokenizer compatible with LLaMA/Gemma models, such as llama2 tokenizer
 enc = tiktoken.get_encoding("cl100k_base")  # Use this as a general approximation
@@ -27,7 +28,7 @@ with open('your_prompt.txt', 'r') as f:
     text = f.read()
 tokens = enc.encode(text)
 print(f"Token count: {len(tokens)}")
-`
+```
 
 </details>
 

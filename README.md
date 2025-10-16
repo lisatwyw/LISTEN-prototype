@@ -1,9 +1,11 @@
 # LISTEN-prototype
 
-## Links to demo:
+## Links to infoveillance
+
+Demo prototypes of infoveillance on misinformation related to...
 - [mpox](https://mpox.streamlit.app)
   - [Figure 1](figs/user_location_gt5_vert.html)
-- [HPV](https://hpv.streamlit.app/)
+- [Human Papillomavirus (HPV)](https://hpv.streamlit.app/)
 - [Measles](https://measles.streamlit.app/)
 
 ## Evaluation

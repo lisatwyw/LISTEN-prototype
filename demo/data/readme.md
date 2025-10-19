@@ -12,18 +12,16 @@
 - Contributors: Zahra Nia, Nicola Bragazzi, Jude Kong, Jianhong Wu
 - https://data.mendeley.com/datasets/242whtdt3m/1
 
-## `multi.tsv`
+## ```multi.tsv```
 - Dempsey 2018: https://www.ncbi.nlm.nih.gov/books/NBK591056/table/tbl002/?report=objectonly
 - Anoop 2023: https://www.sciencedirect.com/science/article/pii/S0033350623000781
-
+- Morgan 2025 https://www.jmir.org/2025/1/e54657/
+ 
 ## Stephen Crone 2022
 - Source: https://www.kaggle.com/datasets/stephencrone/monkeypox
 
 ## Boatman 2022
 - Source: https://doi.org/10.1016/j.pecinn.2024.100329
-
-## Morgan 2025
-- Source: coming soon
 
 ## Med-MMHL
 

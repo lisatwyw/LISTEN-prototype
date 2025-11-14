@@ -3,14 +3,13 @@
 ## Links to infoveillance
 
 Demo prototypes of infoveillance on misinformation related to...
-- [mpox](https://mpox.streamlit.app)
+- [mpox](https://listen2mpox.streamlit.app)
   - [Figure 1](figs/user_location_gt5_vert.html)
-- [Human Papillomavirus (HPV)](https://hpv.streamlit.app/)
 - [Measles](https://measles.streamlit.app/)
 
 ## Evaluation
 
-- [Datasets](data) that can be used for model evaluation
+- [Datasets](demo/data) that can be used for model evaluation
 
 <details>
 
